@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 2rem;
+  }
+  
+  .details{
+    width: 22rem;
+  }
+  
+  .login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
